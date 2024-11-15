@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|c:\\users\\elcpa\\onedrive\\pulpit\\filmy\\filmy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD07A4-165B-4A95-A9EB-EE92FCC82D4B}|Filmy\\Filmy.csproj|solutionrelative:filmy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Filmy\\Views\\Film\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Delete.cshtml",
+              "RelativeToolTip": "Filmy\\Views\\Film\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:27:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Filmy\\Views\\Film\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Edit.cshtml",
+              "RelativeToolTip": "Filmy\\Views\\Film\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:24:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Create.cshtml",
+              "RelativeDocumentMoniker": "Filmy\\Views\\Film\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Create.cshtml",
+              "RelativeToolTip": "Filmy\\Views\\Film\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:22:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Details.cshtml",
+              "RelativeDocumentMoniker": "Filmy\\Views\\Film\\Details.cshtml",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Details.cshtml",
+              "RelativeToolTip": "Filmy\\Views\\Film\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:18:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Filmy\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Filmy\\Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:05:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Filmy\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Filmy\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:54:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Program.cs",
+              "RelativeDocumentMoniker": "Filmy\\Program.cs",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Program.cs",
+              "RelativeToolTip": "Filmy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:07:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Filmy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Filmy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:07:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Filmy\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Models\\Film.cs",
+              "RelativeToolTip": "Filmy\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:50:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Filmy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elcpa\\OneDrive\\Pulpit\\Filmy\\Filmy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Filmy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:44:42.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
